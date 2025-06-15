@@ -29,7 +29,8 @@ export default defineConfig({
           items: [
             { text: 'VueLearn1', link: '/guide/vuelearn/vue1' },
             { text: 'VueLearn2', link: '/guide/vuelearn/vue2' },
-            { text: 'Springboot', link: '/guide/vuelearn/Springboot' }
+            { text: 'Springboot', link: '/guide/vuelearn/Springboot' },
+            { text: 'ps5', link: '/guide/vuelearn/ps5_game_recommendations' }
           ]
         }
       ],
