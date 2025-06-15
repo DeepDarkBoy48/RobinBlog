@@ -28,7 +28,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'VueLearn1', link: '/guide/vuelearn/vue1' },
-            { text: 'VueLearn2', link: '/guide/vuelearn/vue2' }
+            { text: 'VueLearn2', link: '/guide/vuelearn/vue2' },
+            { text: 'Springboot', link: '/guide/vuelearn/Springboot' }
           ]
         }
       ],
