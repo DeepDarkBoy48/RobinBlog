@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/guide/introduction.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -178,10 +178,12 @@
   },
   "active": "9c1e1defa090a4dc",
   "lastOpenFiles": [
+    "docs/guide/assets/IMG_0211.jpeg",
+    "docs/guide/introduction.md",
+    "docs/guide/assets",
     "/docs/guide/introduction.md",
     "/docs/guide",
     "/docs",
-    "docs/guide/introduction.md",
     "html/twitter.html",
     "html",
     "人生感言/徐子语录.md",
