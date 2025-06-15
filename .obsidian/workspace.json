@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "3730904029ffb51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a30945d84027a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0f45ef41d6d0b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6340597a9b656477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d57bd76993c7d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e03483d11667134e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb262dc75e9722fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78b4f57927b49ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a406c7655b882c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e5ee7aa7e31bac9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "d9f81df912602fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "76132a98e152b6d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3380c19646a9dc22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ai/ai网址资源.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ai网址资源 的反向链接列表"
+            }
+          },
+          {
+            "id": "a669870624d1b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ai/ai网址资源.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ai网址资源 的出链列表"
+            }
+          },
+          {
+            "id": "37c367d0c88c2fe4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9a2164566daaf52a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "613514f4183152fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 620.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "56d57bd76993c7d1",
+  "lastOpenFiles": [
+    "job/工商银行小抄.md",
+    "README.md",
+    "draft.md",
+    "未命名.canvas",
+    "你好.md",
+    "job/劳动合同.md",
+    "ai/提示词/prompt.md",
+    "ai/mermaid.md",
+    "Excalidraw/这是什么.canvas",
+    "html",
+    "ai/提示词/提示词.md",
+    "前端/vue.md",
+    "前端/Vue.js入门教程.md",
+    "Excalidraw/Drawing 2025-06-15 17.24.22.excalidraw.md",
+    "Excalidraw",
+    "前端/assets/Pasted image 20250615171501.png",
+    "前端/Docusaurus安装和部署教程.md",
+    "ai/Java教程.md",
+    "ai/vue.md",
+    "前端",
+    "ai/ai网址资源.md",
+    "ai/好用的MCP工具介绍.md",
+    "ai/提示词.md",
+    "人生感言/徐子语录.md",
+    "Game/GTA5.md",
+    "Game/PS5.md",
+    "MCP工具介绍.md",
+    "人生感言/assets/Pasted image 20250608181818.png",
+    "人生感言/assets/image-20250608180415448.png",
+    "人生感言/assets/Pasted image 20250608181650.png",
+    "人生感言/assets",
+    "人生感言/attachments/Pasted image 20250607203607.png",
+    "人生感言/attachments",
+    "Pasted image 20250607191700.png",
+    "工商银行小抄.md",
+    "识别.md",
+    "idea/公众号优势分析.md",
+    "mermaid.md",
+    "Users/robinmacmini/Library",
+    "Users/robinmacmini",
+    "Users",
+    "idea",
+    "测试",
+    "文案/白板测试.canvas"
+  ]
+}
