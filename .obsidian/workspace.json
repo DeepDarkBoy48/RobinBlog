@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/guide/vuelearn/ob测试.md",
+                "file": "docs/guide/introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ob测试"
+              "title": "introduction"
             }
           }
         ]
@@ -198,9 +198,9 @@
   },
   "active": "2a0f45ef41d6d0b1",
   "lastOpenFiles": [
+    "docs/guide/vuelearn/ob测试.md",
     "docs/guide/vuelearn/assets/Pasted image 20250616000953.png",
     "docs/guide/vuelearn/assets",
-    "docs/guide/vuelearn/ob测试.md",
     "job/工商银行小抄.md",
     "README.md",
     "draft.md",
