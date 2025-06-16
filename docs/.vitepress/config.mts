@@ -10,28 +10,27 @@ export default defineConfig({
     //顶部导航栏
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'study', link: '/FrontEnd/Springboot' },
-      { text: 'work', link: '/work/工商银行' }
+      { text: 'Code', link: '/Coding/vue' },
+      { text: 'job', link: '/job/工商银行' },
     ],
 
     sidebar: {
       //FrontEnd页面,代表FrontEnd文件夹
-      '/FrontEnd1/': [
-        //单个页面中的一个分栏，可以有多个分栏
-        //FrontEnd分栏
+      '/FrontEnd/': [
+        //单个页面中的一个分栏，可以有多个分栏,每个分栏
         {
-          text: 'FrontEnd',
+          text: 'Vue3 tutorial',
           collapsed: false,
           //每个分栏中可以有多个子项
           items: [
             { text: 'vue', link: '/FrontEnd/vue' }
           ]
-        },
-        //BackEnd分栏
+        }
+      ],
+      '/BackEnd/': [
         {
-          text: 'BackEnd',
+          text: 'Springboot tutorial',
           collapsed: false,
-          //每个分栏中可以有多个子项
           items: [
             { text: 'springboot', link: '/BackEnd/Springboot' }
           ]
@@ -39,12 +38,12 @@ export default defineConfig({
       ],
 
       //work页面
-      '/work/': [
+      '/job/': [
         { 
           text: '银行',
           collapsed: false, 
           items: [
-            { text: '工商银行', link: '/work/工商银行' }
+            { text: '工商银行', link: '/job/工商银行' }
           ]
         }
       ]
