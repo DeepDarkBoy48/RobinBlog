@@ -17,22 +17,18 @@
 ## 动作冒险
 
 ### 《宇宙机器人无线控制器使用指南》(Astro's Playroom)
-![Astro's Playroom](https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iHl3bIe_C0b02t02jGv4a.png)
 - **简介**: 这款游戏免费预装在每一台 PS5 主机中，是体验 DualSense 无线控制器创新功能的绝佳入门之作。它巧妙地展示了触觉反馈和自适应扳机的魅力，同时也是一部充满情怀的 PlayStation 历史回顾。
 - **亮点**: DualSense 功能的完美展示、充满惊喜的收集要素。
 
 ### 《漫威蜘蛛侠2》(Marvel's Spider-Man 2)
-![Marvel's Spider-Man 2](https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/23f8997a72436037c7695723c3455985068213b35544d934.png)
 - **简介**: 在这部备受期待的续作中，玩家将同时扮演彼得·帕克和迈尔斯·莫拉莱斯两位蜘蛛侠，在纽约市的广阔天空中高速摆荡，对抗毒液、猎人克莱文等经典反派。
 - **亮点**: 无缝切换的双主角体验、更快的移动速度与战斗系统。
 
 ### 《战神：诸神黄昏》(God of War Ragnarök)
-![God of War Ragnarök](https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8kl1B1aReS66r1zTUtG2j.png)
-- **简介**: 奎托斯与阿特柔斯的北欧神话之旅迎来了史诗般的终章。游戏在前作的基础上全面升级了战斗系统、探索内容和剧情深度，呈现了一场震撼人心的父子冒险。
+-  **简介**: 奎托斯与阿特柔斯的北欧神话之旅迎来了史诗般的终章。游戏在前作的基础上全  面升级了战斗系统、探索内容和剧情深度，呈现了一场震撼人心的父子冒险。
 - **亮点**: 宏大的故事叙事、爽快且富有深度的战斗。
 
 ### 《瑞奇与叮当：时空跳转》(Ratchet & Clank: Rift Apart)
-![Ratchet & Clank: Rift Apart](https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/pMjw6TjM2b1SAHwR5yRdiefP.png)
 - **简介**: 这款作品是 PS5 机能的绝佳展示。玩家将在不同维度之间无缝穿梭，体验几乎没有加载时间的惊人速度。华丽的视觉效果和有趣的武器系统让它成为一款老少咸宜的佳作。
 - **亮点**: 利用 SSD 实现的即时维度切换、电影级的画面表现。
 
@@ -51,7 +47,6 @@
 - **亮点**: 极高的自由度、引人入胜的剧情与角色塑造。
 
 ### 《艾尔登法环》(Elden Ring)
-![Elden Ring](https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0sS6o2df2vR24gHRv52PcojR.png)
 - **简介**: FromSoftware 与乔治·R·R·马丁联手打造的魂系动作 RPG。游戏拥有一个广袤的开放世界"交界地"，充满了秘密、挑战和史诗级的 Boss 战。
 - **亮点**: 充满探索乐趣的开放世界、高难度的战斗挑战。
 
@@ -60,13 +55,11 @@
 ## 开放世界
 
 ### 《对马岛之魂 导演剪辑版》(Ghost of Tsushima Director's Cut)
-![Ghost of Tsushima Director's Cut](https://image.api.playstation.com/vulcan/ap/rnd/202107/0109/9d257855b5591c52110b503070490b41a5476bcb32906b3a.png)
 - **简介**: 在这款游戏中，玩家将化身武士"境井仁"，为保卫家园而战。游戏以其惊艳的视觉风格和流畅的战斗系统著称，导演剪辑版还新增了"壹岐岛"扩展内容。
 - **亮点**: 仿佛黑泽明电影般的艺术风格、独特的"引导之风"导航系统。
 
 ### 《地平线：西之绝境》(Horizon Forbidden West)
-![Horizon Forbidden West](https://image.api.playstation.com/vulcan/ap/rnd/202111/1908/c52A7cbpC36mQy2z6iL9a8D9.png)
-- **简介**: 玩家将再次扮演埃洛伊，前往神秘的西部禁地，对抗更加危险的机械巨兽，揭开世界毁灭的真相。游戏拥有令人惊叹的画面和丰富的生态系统。
+-  **简介**: 玩家将再次扮演埃洛伊，前往神秘的西部禁地，对抗更加危险的机械巨兽，揭开世界毁灭的真相。游戏拥有令人惊叹的画面和丰富的生态系统。
 - **亮点**: 壮丽的自然风光与机械设定、多样化的战斗与探索工具。
 
 ---
