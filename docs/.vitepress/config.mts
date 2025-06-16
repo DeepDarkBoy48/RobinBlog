@@ -10,40 +10,47 @@ export default defineConfig({
     //顶部导航栏
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Code', link: '/Code/vue' },
+      { text: 'Code', link: '/Code/FrontEnd/vue' },
       { text: 'Job', link: '/Job/工商银行' },
+      { text: 'Fun', link: '/Fun/ps5_game_recommendations' }, 
     ],
 
     sidebar: {
-      //FrontEnd页面,代表FrontEnd文件夹
+      //Code页面,代表Code文件夹，也就是Code文件夹（总文件夹）
       '/Code/': [
-        //单个页面中的一个分栏，可以有多个分栏,每个分栏
+        //单个页面中的一个分栏，可以有多个分栏, 也就是多个文件夹
         {
-          text: 'Vue3 tutorial',
+          text: 'FrontEnd',
           collapsed: false,
-          //每个分栏中可以有多个子项
+          //每个分栏中可以有多个页面，也就是多个md文件
           items: [
             { text: 'vue', link: '/Code/FrontEnd/vue' }
           ]
-        }
-      ],
-      '/BackEnd/': [
+        },
         {
-          text: 'Springboot tutorial',
+          text: 'BackEnd',
           collapsed: false,
           items: [
-            { text: 'springboot', link: '/BackEnd/Springboot' }
+            { text: 'springboot', link: '/Code/BackEnd/Springboot' }
           ]
         }
       ],
-
-      //work页面
+      //Job
       '/Job/': [
         { 
           text: '银行',
           collapsed: false, 
           items: [
             { text: '工商银行', link: '/Job/工商银行' }
+          ]
+        }
+      ],
+      '/Fun/': [
+        {
+          text: 'ps5',
+          collapsed: false,
+          items: [
+            { text: 'ps5游戏推荐', link: '/Fun/ps5_game_recommendations' }
           ]
         }
       ]
