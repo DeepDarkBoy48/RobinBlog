@@ -37,12 +37,11 @@
 ## 角色扮演 (RPG)
 
 ### 《最终幻想7：重生》(Final Fantasy VII Rebirth)
-![Final Fantasy VII Rebirth](https://image.api.playstation.com/vulcan/ap/rnd/202309/1413/82a265b4c13a2839556156038480392f451f251c863b15c7.png)
 - **简介**: 作为《最终幻想7 重制版》三部曲的第二部，本作将故事带向了更广阔的世界。玩家将离开米德加，与克劳德一行人共同探索星球的秘密。
 - **亮点**: 庞大的开放世界探索、融合动作与策略的战斗系统。
 
-### 《博德之门3》(Baldur's Gate 3)
-![Baldur's Gate 3](https://image.api.playstation.com/vulcan/ap/rnd/202308/0118/39f26a117b43ba62a6b2ccebab805123d455435964a2f811.png)
+### 《博德之门3》(Baldur's Gate 3
+
 - **简介**: 这款年度最佳游戏将龙与地下城 (D&D) 规则的魅力发挥到了极致。玩家的选择将深刻影响剧情走向，创造出独一无二的冒险故事。
 - **亮点**: 极高的自由度、引人入胜的剧情与角色塑造。
 

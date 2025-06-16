@@ -2,5 +2,8 @@
   "shimmering-focus@@heading-letter-spacing": 3,
   "shimmering-focus@@code-size": 1.25,
   "id@@colorblind_protan-deutan": true,
-  "id@@colorblind_tritan": true
+  "id@@colorblind_tritan": true,
+  "things-style@@mobile-black-background": false,
+  "things-style@@fancy-code": true,
+  "things-style@@default-font-color": false
 }

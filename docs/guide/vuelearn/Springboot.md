@@ -95,7 +95,6 @@ public class User {
     private LocalDateTime createTime;//创建时间
 ```
 
-## `<font style="background-color:rgba(255, 255, 255, 0);">@SuppressWarnings("all")</font>`
 
 编译器不要报告任何警告
 
@@ -152,13 +151,7 @@ public class UserController {
 
 用法2:实体类参数校验
 
-<ImageDisplay src="/images/springboot/springboot-3.png" />
-
 `@NotNull`不能为null
-
-`@NotEmpty`不能null且不能为空
-
-`@Email`必须是邮箱
 
 ```java
 //lombok  在编译阶段,为实体类自动生成setter  getter toString

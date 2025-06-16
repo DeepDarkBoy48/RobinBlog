@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/guide/vuelearn/Springboot.md",
-                "mode": "preview",
+                "file": "docs/guide/vuelearn/ps5_game_recommendations.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Springboot"
+              "title": "ps5_game_recommendations"
             }
           }
         ]
@@ -183,12 +183,12 @@
   },
   "active": "2a0f45ef41d6d0b1",
   "lastOpenFiles": [
-    "docs/guide/vuelearn/vue.md",
-    "docs/guide/vuelearn/ob测试.md",
-    "docs/guide/vuelearn/ps5_game_recommendations.md",
-    "docs/guide/vuelearn/Springboot.md",
     "docs/guide/markdown-examples.md",
     "docs/guide/introduction.md",
+    "docs/guide/vuelearn/vue.md",
+    "docs/guide/vuelearn/Springboot.md",
+    "docs/guide/vuelearn/ob测试.md",
+    "docs/guide/vuelearn/ps5_game_recommendations.md",
     "docs/guide/vuelearn/images/image-4.png",
     "docs/guide/vuelearn/images/image-5.png",
     "docs/guide/vuelearn/images/image.png",
