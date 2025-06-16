@@ -9,8 +9,7 @@
 你好
 ![](assets/IMG_0258.jpeg)
 
-wan 
-====![](assets/IMG_0211.jpeg)====
+![](assets/IMG_0211.jpeg)
 
 手机git测试
 
