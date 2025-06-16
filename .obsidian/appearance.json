@@ -1,9 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "GitHub Theme",
   "baseFontSize": 16,
   "theme": "system",
   "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "nativeMenus": true,
-  "translucency": false
+  "textFontFamily": "Apple Braille",
+  "nativeMenus": false
 }

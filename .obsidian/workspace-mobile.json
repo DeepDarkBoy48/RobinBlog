@@ -11,10 +11,14 @@
             "id": "ea11716ba3b2d087",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/guide/introduction.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "introduction"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "9c39d18312322afe",
@@ -176,21 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c1e1defa090a4dc",
+  "active": "ea11716ba3b2d087",
   "lastOpenFiles": [
-    "docs/guide/assets/IMG_0258.jpeg",
-    "docs/work/工商银行.md",
+    "docs/guide/vuelearn/images/image-4.png",
+    "docs/guide/vuelearn/images/image-5.png",
     "docs/work/assets/image 1.jpg",
-    "docs/work/assets/image.jpg",
-    "docs/work/assets",
     "docs/guide/introduction.md",
-    "docs/work",
-    "docs/guide/markdown-examples.md",
-    "docs/guide/assets/IMG_0211.jpeg",
-    "docs/guide/assets",
-    "/docs/guide/introduction.md",
-    "/docs/guide",
-    "/docs",
     "html/twitter.html",
     "html",
     "人生感言/徐子语录.md",
