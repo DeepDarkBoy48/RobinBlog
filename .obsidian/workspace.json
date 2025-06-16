@@ -11,10 +11,14 @@
             "id": "2a0f45ef41d6d0b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Code/BackEnd/Springboot.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Springboot"
             }
           }
         ]
@@ -176,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c78b4f57927b49ef",
+  "active": "2a0f45ef41d6d0b1",
   "lastOpenFiles": [
+    "docs/Code/BackEnd/python.md",
+    "docs/Fun/ps5_game_recommendations.md",
+    "docs/work/工商银行.md",
     "docs/Code/FrontEnd/images/image.png",
     "docs/Code/FrontEnd/images/image-5.png",
     "docs/Code/FrontEnd/images/image-4.png",
@@ -185,19 +192,16 @@
     "docs/Code/FrontEnd/images/image-2.png",
     "docs/Code/FrontEnd/images/image-1.png",
     "docs/Code/FrontEnd/images",
-    "docs/Code/BackEnd/python.md",
     "docs/Code/BackEnd/images/image.png",
     "docs/Code/BackEnd/images/image-5.png",
     "docs/Code/BackEnd/images/image-4.png",
     "docs/Code/BackEnd/images/image-3.png",
-    "docs/Code/BackEnd/images/image-2.png",
     "docs/Code/BackEnd/images",
     "docs/Code/BackEnd/Springboot.md",
     "docs/Code/FrontEnd/vue.md",
     "docs/Code/BackEnd",
     "docs/Code/FrontEnd",
     "docs/Code",
-    "docs/Fun/ps5_game_recommendations.md",
     "docs/Fun",
     "docs/Job/工商银行.md",
     "docs/Job/assets",
