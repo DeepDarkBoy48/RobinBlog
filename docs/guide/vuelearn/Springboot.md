@@ -421,6 +421,7 @@ public class ThreadLocalUtil {
 ## 登陆
 
 同样使用`Md5Util`校验密码，成果的话使用`JwtUtil`生成jwt令牌，并在令牌中存入用户数据
+
 > 注意注册和登录都不在拦截器的拦截范围中
 
 ## 拦截器
