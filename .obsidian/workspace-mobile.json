@@ -11,28 +11,10 @@
             "id": "ea11716ba3b2d087",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/guide/vuelearn/ps5_game_recommendations.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ps5_game_recommendations"
-            }
-          },
-          {
-            "id": "9c1e1defa090a4dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/guide/introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "introduction"
+              "title": "新标签页"
             }
           }
         ]
@@ -132,7 +114,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/guide/vuelearn/ps5_game_recommendations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -181,8 +162,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea11716ba3b2d087",
+  "active": "34b68b6fc1293520",
   "lastOpenFiles": [
+    "docs/Job/assets/image.jpg",
+    "docs/Job/assets/image 1.jpg",
+    "docs/Job/工商银行.md",
+    "docs/Job/assets",
+    "docs/Job",
+    "docs/Code/FrontEnd/images/image-4.png",
+    "docs/Code/FrontEnd/images/image-5.png",
+    "docs/Code/FrontEnd/images/image.png",
+    "docs/Code/FrontEnd/images/image-2.png",
+    "docs/Code/FrontEnd/images/image-3.png",
+    "docs/Code/FrontEnd/images/image-1.png",
+    "docs/Code/BackEnd/Springboot.md",
+    "docs/Code/BackEnd/python.md",
+    "docs/Code/FrontEnd/vue.md",
+    "docs/Code/FrontEnd/images",
+    "docs/Code/BackEnd",
+    "docs/Code/FrontEnd",
+    "docs/Code",
+    "docs/Fun/ps5_game_recommendations.md",
+    "docs/Fun",
     "docs/guide/vuelearn/ob测试.md",
     "docs/guide/introduction.md",
     "docs/guide/markdown-examples.md",
@@ -205,7 +206,6 @@
     "识别.md",
     "ai/ai网址资源.md",
     "idea",
-    "ai/未命名.md",
-    "ai"
+    "ai/未命名.md"
   ]
 }
