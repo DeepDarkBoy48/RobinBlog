@@ -9,41 +9,32 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: '指南', link: '/guide/introduction' },
-      { text: '参考', link: '/reference/site-config' }
+      { text: 'study', link: '/FrontEnd/Springboot' },
+      { text: 'job', link: '/job/' }
     ],
 
     sidebar: {
-      '/guide/': [
+      '/FrontEnd/': [
         {
           text: '指南',
           collapsed: false,
           items: [
-            { text: '介绍', link: '/guide/introduction' },
-            { text: 'Markdown 示例', link: '/guide/markdown-examples' }
+            { text: '介绍', link: '/FrontEnd/Springboot' },
+            { text: 'Markdown 示例', link: '/FrontEnd/vue' }
           ]
         },
         {
           text: 'VueLearn',
           collapsed: false,
           items: [
-            { text: 'VueLearn', link: '/guide/vuelearn/vue' },
-            { text: 'Springboot', link: '/guide/vuelearn/Springboot' },
-            { text: 'ps5', link: '/guide/vuelearn/ps5_game_recommendations' },
-            { text: 'ob测试', link: '/guide/vuelearn/ob测试' }
+            { text: 'VueLearn', link: '/FrontEnd/vue' },  
+            { text: 'Springboot', link: '/FrontEnd/Springboot' },
+            { text: 'ps5', link: '/FrontEnd/ps5_game_recommendations' },
+            { text: 'ob测试', link: '/FrontEnd/ob测试' }
           ]
         }
       ],
-      '/reference/': [
-        {
-          text: '参考',
-          collapsed: false,
-          items: [
-            { text: '站点配置', link: '/reference/site-config' },
-            { text: 'API 示例', link: '/reference/api-examples' }
-          ]
-        }
-      ]
+      
     },
 
     // 让目录从1开始，并且显示到6级
