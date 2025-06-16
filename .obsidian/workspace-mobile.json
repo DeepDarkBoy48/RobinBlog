@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Job/工商银行.md",
-                "mode": "preview",
+                "file": "docs/Fun/ps5_game_recommendations.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工商银行"
+              "title": "ps5_game_recommendations"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Job/工商银行.md",
+            "file": "docs/Fun/ps5_game_recommendations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Job/工商银行.md",
+            "file": "docs/Fun/ps5_game_recommendations.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -152,8 +152,7 @@
         }
       }
     ],
-    "currentTab": 2,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +168,12 @@
   },
   "active": "ea11716ba3b2d087",
   "lastOpenFiles": [
-    "docs/Fun/ps5_game_recommendations.md",
-    "docs/guide/vuelearn/ps5_game_recommendations.md",
+    "docs/Code/FrontEnd/vue.md",
     "docs/Job/assets/image.jpg",
     "docs/Job/assets/image 1.jpg",
     "docs/Job/工商银行.md",
+    "docs/Fun/ps5_game_recommendations.md",
+    "docs/guide/vuelearn/ps5_game_recommendations.md",
     "docs/Job/assets",
     "docs/Job",
     "docs/Code/FrontEnd/images/image-4.png",
@@ -184,7 +184,6 @@
     "docs/Code/FrontEnd/images/image-1.png",
     "docs/Code/BackEnd/Springboot.md",
     "docs/Code/BackEnd/python.md",
-    "docs/Code/FrontEnd/vue.md",
     "docs/Code/FrontEnd/images",
     "docs/Code/BackEnd",
     "docs/Code/FrontEnd",
