@@ -1,4 +1,6 @@
 {
   "shimmering-focus@@heading-letter-spacing": 3,
-  "shimmering-focus@@code-size": 1.25
+  "shimmering-focus@@code-size": 1.25,
+  "id@@colorblind_protan-deutan": true,
+  "id@@colorblind_tritan": true
 }
