@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/guide/introduction.md",
-                "mode": "preview",
+                "file": "docs/guide/vuelearn/ps5_game_recommendations.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introduction"
+              "title": "ps5_game_recommendations"
             }
           },
           {
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "公众号优势分析.md",
+            "file": "docs/guide/vuelearn/ps5_game_recommendations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "公众号优势分析.md",
+            "file": "docs/guide/vuelearn/ps5_game_recommendations.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,7 +166,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +183,16 @@
   },
   "active": "ea11716ba3b2d087",
   "lastOpenFiles": [
+    "docs/guide/vuelearn/ob测试.md",
+    "docs/guide/introduction.md",
+    "docs/guide/markdown-examples.md",
+    "docs/work/工商银行.md",
+    "docs/index.md",
+    "docs/reference/site-config.md",
+    "docs/reference/api-examples.md",
     "docs/guide/vuelearn/images/image-4.png",
     "docs/guide/vuelearn/images/image-5.png",
     "docs/work/assets/image 1.jpg",
-    "docs/guide/introduction.md",
     "html/twitter.html",
     "html",
     "人生感言/徐子语录.md",

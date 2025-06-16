@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/guide/vuelearn/Springboot.md",
+                "file": "docs/work/工商银行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Springboot"
+              "title": "工商银行"
             }
           }
         ]
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,23 +180,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a0f45ef41d6d0b1",
+  "active": "c78b4f57927b49ef",
   "lastOpenFiles": [
+    "docs/FrontEnd/images/image-4.png",
+    "docs/FrontEnd/images/image-3.png",
+    "docs/FrontEnd/images/image.png",
+    "docs/FrontEnd/images/image-5.png",
+    "docs/FrontEnd/images/image-2.png",
+    "docs/FrontEnd/images/image-1.png",
+    "docs/FrontEnd/vue.md",
+    "docs/FrontEnd/ps5_game_recommendations.md",
+    "docs/FrontEnd/Springboot.md",
+    "docs/FrontEnd/images",
+    "docs/FrontEnd",
+    "docs/vuelearn/images/image.png",
+    "docs/vuelearn/images/image-5.png",
+    "docs/vuelearn/images/image-4.png",
+    "docs/vuelearn/images/image-3.png",
+    "docs/vuelearn/images/image-2.png",
+    "docs/vuelearn/vue.md",
+    "docs/vuelearn/ps5_game_recommendations.md",
+    "docs/vuelearn/ob测试.md",
+    "docs/vuelearn/images",
+    "docs/vuelearn/Springboot.md",
+    "docs/vuelearn",
+    "docs/reference/site-config.md",
+    "docs/reference/api-examples.md",
+    "docs/guide/vuelearn/Springboot.md",
     "docs/guide/vuelearn/ps5_game_recommendations.md",
     "docs/guide/markdown-examples.md",
     "docs/guide/introduction.md",
     "docs/guide/vuelearn/vue.md",
-    "docs/guide/vuelearn/Springboot.md",
     "docs/guide/vuelearn/ob测试.md",
-    "docs/guide/vuelearn/images/image-4.png",
-    "docs/guide/vuelearn/images/image-5.png",
-    "docs/guide/vuelearn/images/image.png",
-    "docs/guide/vuelearn/images/image-2.png",
-    "docs/guide/vuelearn/images/image-3.png",
-    "docs/guide/vuelearn/images/image-1.png",
     "docs/guide/vuelearn/images",
     "docs/guide/vuelearn/vue2.md",
-    "docs/guide/vuelearn/assets/Pasted image 20250616000953.png",
     "docs/guide/vuelearn/assets",
     "job/工商银行小抄.md",
     "README.md",
@@ -211,26 +227,9 @@
     "html",
     "ai/提示词/提示词.md",
     "前端/vue.md",
-    "前端/Vue.js入门教程.md",
-    "Excalidraw/Drawing 2025-06-15 17.24.22.excalidraw.md",
     "Excalidraw",
-    "前端/assets/Pasted image 20250615171501.png",
-    "前端/Docusaurus安装和部署教程.md",
-    "ai/Java教程.md",
-    "ai/vue.md",
     "前端",
-    "ai/ai网址资源.md",
-    "ai/好用的MCP工具介绍.md",
-    "ai/提示词.md",
-    "人生感言/徐子语录.md",
-    "Game/GTA5.md",
-    "人生感言/assets/Pasted image 20250608181818.png",
-    "人生感言/assets/image-20250608180415448.png",
     "人生感言/assets",
-    "人生感言/attachments",
-    "Users/robinmacmini/Library",
-    "Users/robinmacmini",
-    "Users",
     "文案/白板测试.canvas"
   ]
 }
