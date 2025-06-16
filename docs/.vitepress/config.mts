@@ -7,34 +7,47 @@ export default defineConfig({
   base: '/RobinBlog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    //顶部导航栏
     nav: [
       { text: 'Home', link: '/' },
       { text: 'study', link: '/FrontEnd/Springboot' },
-      { text: 'job', link: '/job/' }
+      { text: 'work', link: '/work/工商银行' }
     ],
 
     sidebar: {
-      '/FrontEnd/': [
+      //FrontEnd页面,代表FrontEnd文件夹
+      '/FrontEnd1/': [
+        //单个页面中的一个分栏，可以有多个分栏
+        //FrontEnd分栏
         {
-          text: '指南',
+          text: 'FrontEnd',
           collapsed: false,
+          //每个分栏中可以有多个子项
           items: [
-            { text: '介绍', link: '/FrontEnd/Springboot' },
-            { text: 'Markdown 示例', link: '/FrontEnd/vue' }
+            { text: 'vue', link: '/FrontEnd/vue' }
           ]
         },
+        //BackEnd分栏
         {
-          text: 'VueLearn',
+          text: 'BackEnd',
           collapsed: false,
+          //每个分栏中可以有多个子项
           items: [
-            { text: 'VueLearn', link: '/FrontEnd/vue' },  
-            { text: 'Springboot', link: '/FrontEnd/Springboot' },
-            { text: 'ps5', link: '/FrontEnd/ps5_game_recommendations' },
-            { text: 'ob测试', link: '/FrontEnd/ob测试' }
+            { text: 'springboot', link: '/BackEnd/Springboot' }
           ]
         }
       ],
-      
+
+      //work页面
+      '/work/': [
+        { 
+          text: '银行',
+          collapsed: false, 
+          items: [
+            { text: '工商银行', link: '/work/工商银行' }
+          ]
+        }
+      ]
     },
 
     // 让目录从1开始，并且显示到6级
