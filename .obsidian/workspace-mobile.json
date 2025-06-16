@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Fun/ps5_game_recommendations.md",
+                "file": "docs/Job/工商银行.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ps5_game_recommendations"
+              "title": "工商银行"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Fun/ps5_game_recommendations.md",
+            "file": "docs/Job/工商银行.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Fun/ps5_game_recommendations.md",
+            "file": "docs/Job/工商银行.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,6 +169,7 @@
   },
   "active": "ea11716ba3b2d087",
   "lastOpenFiles": [
+    "docs/Fun/ps5_game_recommendations.md",
     "docs/guide/vuelearn/ps5_game_recommendations.md",
     "docs/Job/assets/image.jpg",
     "docs/Job/assets/image 1.jpg",
@@ -188,7 +189,6 @@
     "docs/Code/BackEnd",
     "docs/Code/FrontEnd",
     "docs/Code",
-    "docs/Fun/ps5_game_recommendations.md",
     "docs/Fun",
     "docs/guide/vuelearn/ob测试.md",
     "docs/guide/introduction.md",
