@@ -31,7 +31,8 @@ export default defineConfig({
           text: 'BackEnd',
           collapsed: false,
           items: [
-            { text: 'springboot', link: '/Code/BackEnd/Springboot' }
+            { text: 'Springboot', link: '/Code/BackEnd/Springboot' },
+            { text: 'python', link: '/Code/BackEnd/python' }
           ]
         }
       ],
