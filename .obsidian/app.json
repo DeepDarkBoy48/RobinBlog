@@ -1,7 +1,7 @@
 {
   "defaultViewMode": "preview",
-  "readableLineLength": true,
-  "showLineNumber": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
