@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68a30945d84027a6",
+        "id": "b87ed229006f4f85",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0f45ef41d6d0b1",
+            "id": "6598f3563dee18d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Code/BackEnd/Springboot.md",
-                "mode": "preview",
+                "file": "docs/Code/FrontEnd/vue.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Springboot"
+              "title": "vue"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/guide/vuelearn/ob测试.md",
+                "file": "docs/Code/FrontEnd/vue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ob测试 的大纲"
+              "title": "vue 的大纲"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 364
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,34 +180,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a0f45ef41d6d0b1",
+  "active": "6598f3563dee18d3",
   "lastOpenFiles": [
+    "docs/Code/BackEnd/python.md",
+    "docs/Code/FrontEnd/vue.md",
+    "docs/Code/FrontEnd/images/Pasted image 20250617224039.png",
+    "docs/Fun/ps5_game_recommendations.md",
+    "docs/Code/FrontEnd/images/image-1.png",
+    "docs/Code/FrontEnd/images/image.png",
+    "docs/Job/工商银行.md",
+    "docs/Code/BackEnd/Springboot.md",
+    "docs/index.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/assets/IMG_0015.jpeg",
     "Excalidraw/assets",
     "Excalidraw/Drawing 2025-06-17 01.26.31.excalidraw.md",
     "Excalidraw",
-    "docs/Code/BackEnd/python.md",
-    "docs/Code/BackEnd/Springboot.md",
-    "docs/Fun/ps5_game_recommendations.md",
     "docs/work/工商银行.md",
-    "docs/Code/FrontEnd/images/image.png",
     "docs/Code/FrontEnd/images/image-5.png",
     "docs/Code/FrontEnd/images/image-4.png",
     "docs/Code/FrontEnd/images/image-3.png",
     "docs/Code/FrontEnd/images/image-2.png",
-    "docs/Code/FrontEnd/images/image-1.png",
     "docs/Code/FrontEnd/images",
     "docs/Code/BackEnd/images/image.png",
     "docs/Code/BackEnd/images/image-5.png",
-    "docs/Code/BackEnd/images/image-4.png",
-    "docs/Code/BackEnd/images/image-3.png",
     "docs/Code/BackEnd/images",
-    "docs/Code/FrontEnd/vue.md",
     "docs/Code/BackEnd",
     "docs/Code/FrontEnd",
     "docs/Code",
     "docs/Fun",
-    "docs/Job/工商银行.md",
     "docs/Job/assets",
     "docs/Job",
     "docs/Coding/FrontEnd/vue.md",
@@ -226,8 +227,6 @@
     "docs/reference/api-examples.md",
     "docs/guide/vuelearn/Springboot.md",
     "docs/guide/vuelearn/ps5_game_recommendations.md",
-    "docs/guide/markdown-examples.md",
-    "docs/guide/introduction.md",
     "未命名.canvas",
     "Excalidraw/这是什么.canvas",
     "文案/白板测试.canvas"

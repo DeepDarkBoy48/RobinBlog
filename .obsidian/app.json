@@ -1,7 +1,7 @@
 {
   "defaultViewMode": "preview",
-  "readableLineLength": true,
-  "showLineNumber": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
@@ -15,7 +15,7 @@
   "newFileLocation": "current",
   "newFileFolderPath": "/image",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "./images",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative"
 }

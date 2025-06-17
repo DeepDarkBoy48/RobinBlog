@@ -1,7 +1,5 @@
 # 1. 安装
 
-
-
 https://vuejs.org/guide/quick-start.html
 
 ```bash
@@ -40,10 +38,7 @@ npm run dev
 ```
 
 
-
 # 2. 部署
-
-
 
 ```dockerfile
 # 构建阶段 (builder stage)
@@ -92,7 +87,7 @@ sudo docker build -t vue .
 sudo docker run -d --name vuelearn -p 110:110 vue
 ```
 
-* [ ] 修改nginx配置
+修改nginx配置
 
 # 3. js导入导出
 
@@ -103,12 +98,9 @@ sudo docker run -d --name vuelearn -p 110:110 vue
 记住script的type选module
 
 # 4. 单文件导入vue
-
 ![](images/image-2.png)
 
 script的type，选module，在填数据数据
-
-
 
 # 5. 常用指令
 
@@ -319,28 +311,19 @@ script的type，选module，在填数据数据
 </html>
 ```
 
-## 5.4 **指令 v-if\&v-show.html**
+## 5.4 指令 v-if\&v-show.html
 
 
 
 这个文件对比了 `v-if` 和 `v-show` 两个指令，它们都用于条件性地显示或隐藏元素。
 
-
-
 1. `v-if`、`v-else-if`、`v-else`：这是"真正"的条件渲染，因为它们会确保在切换过程中，条件块内的事件监听器和子组件被适当地销毁和重建。如果初始条件为假，那么元素根本不会被渲染到 DOM 中。
 
 2. `v-show`：这个指令只是简单地切换元素的 CSS `display` 属性。无论初始条件是什么，元素总是会被渲染，只是 display 属性可能为 `none`。
 
-
-
 **选择**：
-
-
-
 * 如果需要频繁切换，使用 `v-show` 性能更好。
-
 * 如果条件在运行时很少改变，使用 `v-if` 更合适，因为它可以减少初始渲染的开销。
-
 
 
 ```html
@@ -641,3 +624,115 @@ script的type，选module，在填数据数据
 </html>
 ```
 
+
+# 7 案例
+![](images/Pasted%20image%2020250617224039.png)
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="app">
+
+        文章分类: <input type="text" v-model="searchConditions.category">
+
+        发布状态: <input type="text"  v-model="searchConditions.state">
+
+        <button v-on:click="search">搜索</button>
+
+        <br />
+        <br />
+        <table border="1 solid" colspa="0" cellspacing="0">
+            <tr>
+                <th>文章标题</th>
+                <th>分类</th>
+                <th>发表时间</th>
+                <th>状态</th>
+                <th>操作</th>
+            </tr>
+            <tr v-for="(article,index) in articleList">
+                <td>{{article.title}}</td>
+                <td>{{article.category}}</td>
+                <td>{{article.time}}</td>
+                <td>{{article.state}}</td>
+                <td>
+                    <button>编辑</button>
+                    <button>删除</button>
+                </td>
+            </tr>
+            <!-- <tr>
+                <td>标题2</td>
+                <td>分类2</td>
+                <td>2000-01-01</td>
+                <td>已发布</td>
+                <td>
+                    <button>编辑</button>
+                    <button>删除</button>
+                </td>
+            </tr>
+            <tr>
+                <td>标题3</td>
+                <td>分类3</td>
+                <td>2000-01-01</td>
+                <td>已发布</td>
+                <td>
+                    <button>编辑</button>
+                    <button>删除</button>
+                </td>
+            </tr> -->
+        </table>
+    </div>
+    <!-- 导入axios的js文件 -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="module">
+        //导入vue模块
+        import {createApp} from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js';
+        //创建vue应用实例
+        createApp({
+            data(){
+                return {
+                    articleList:[],
+                    searchConditions:{
+                        category:'',
+                        state:''
+                    }
+                }
+            },
+            methods:{
+                //声明方法
+                search:function(){
+                    //发送请求,完成搜索,携带搜索条件
+                    axios.get('http://localhost:8080/article/search?category='+this.searchConditions.category+'&state='+this.searchConditions.state)
+                    .then(result=>{
+                        //成功回调 result.data
+                        //把得到的数据赋值给articleList
+                        this.articleList=result.data
+                    }).catch(err=>{
+                        console.log(err);
+                    });
+                }
+            },
+            //钩子函数mounted中,获取所有文章数据
+            mounted:function(){
+                //发送异步请求  axios
+                axios.get('http://localhost:8080/article/getAll').then(result=>{
+                    //成功回调
+                    //console.log(result.data);
+                    this.articleList=result.data;
+                }).catch(err=>{
+                    //失败回调
+                    console.log(err);
+                });
+            }
+        }).mount('#app');//控制html元素
+    </script>
+</body>
+
+</html>
+```
