@@ -186,7 +186,7 @@ script的type，选module，在填数据数据
 
 ![](images/image-5.png)
 
-```xml
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -266,7 +266,7 @@ script的type，选module，在填数据数据
 
 ## 5.3 v-on
 
-```xml
+```vue
 <!DOCTYPE html>
 <html lang="en">
 
@@ -736,3 +736,6 @@ script的type，选module，在填数据数据
 
 </html>
 ```
+
+
+![](images/Pasted%20image%2020250617235206.png)
