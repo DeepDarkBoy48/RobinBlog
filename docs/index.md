@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /guide/introduction
+      link: /FrontEnd/introduction
     - theme: alt
       text: 查看参考
-      link: /reference/site-config
+      link: /job/工商银行
 
 features:
   - title: 学习指南
