@@ -11,17 +11,24 @@
             "id": "ea11716ba3b2d087",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Code/BackEnd/Springboot.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Springboot"
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "9c1e1defa090a4dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Code/BackEnd/Springboot.md",
+            "file": "公众号优势分析.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Code/BackEnd/Springboot.md",
+            "file": "公众号优势分析.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -151,7 +158,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,38 +172,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea11716ba3b2d087",
+  "active": "9c1e1defa090a4dc",
   "lastOpenFiles": [
-    "docs/Code/BackEnd/python.md",
-    "docs/Code/BackEnd/Springboot.md",
-    "docs/Fun/ps5_game_recommendations.md",
-    "docs/Code/FrontEnd/vue.md",
-    "docs/Job/assets/image.jpg",
-    "docs/Job/assets/image 1.jpg",
-    "docs/Job/工商银行.md",
-    "docs/guide/vuelearn/ps5_game_recommendations.md",
-    "docs/Job/assets",
-    "docs/Job",
-    "docs/Code/FrontEnd/images/image-4.png",
-    "docs/Code/FrontEnd/images/image-5.png",
-    "docs/Code/FrontEnd/images/image.png",
-    "docs/Code/FrontEnd/images/image-2.png",
-    "docs/Code/FrontEnd/images/image-3.png",
-    "docs/Code/FrontEnd/images/image-1.png",
-    "docs/Code/FrontEnd/images",
-    "docs/Code/BackEnd",
-    "docs/Code/FrontEnd",
-    "docs/Code",
-    "docs/Fun",
-    "docs/guide/vuelearn/ob测试.md",
-    "docs/guide/introduction.md",
-    "docs/guide/markdown-examples.md",
+    "docs/guide/assets/IMG_0258.jpeg",
     "docs/work/工商银行.md",
-    "docs/index.md",
-    "docs/reference/site-config.md",
-    "docs/reference/api-examples.md",
-    "docs/guide/vuelearn/images/image-4.png",
-    "docs/guide/vuelearn/images/image-5.png",
+    "docs/work/assets/image 1.jpg",
+    "docs/work/assets/image.jpg",
+    "docs/work/assets",
+    "docs/guide/introduction.md",
+    "docs/work",
+    "docs/guide/markdown-examples.md",
+    "docs/guide/assets/IMG_0211.jpeg",
+    "docs/guide/assets",
+    "/docs/guide/introduction.md",
+    "/docs/guide",
+    "/docs",
     "html/twitter.html",
     "html",
     "人生感言/徐子语录.md",
@@ -209,6 +199,7 @@
     "识别.md",
     "ai/ai网址资源.md",
     "idea",
-    "ai/未命名.md"
+    "ai/未命名.md",
+    "ai"
   ]
 }

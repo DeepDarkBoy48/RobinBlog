@@ -7,51 +7,41 @@ export default defineConfig({
   base: '/RobinBlog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    //顶部导航栏
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Code', link: '/Code/FrontEnd/vue' },
-      { text: 'Job', link: '/Job/工商银行' },
-      { text: 'Fun', link: '/Fun/ps5_game_recommendations' }, 
+      { text: '指南', link: '/guide/introduction' },
+      { text: '参考', link: '/reference/site-config' }
     ],
 
     sidebar: {
-      //Code页面,代表Code文件夹，也就是Code文件夹（总文件夹）
-      '/Code/': [
-        //单个页面中的一个分栏，可以有多个分栏, 也就是多个文件夹
+      '/guide/': [
         {
-          text: 'FrontEnd',
+          text: '指南',
           collapsed: false,
-          //每个分栏中可以有多个页面，也就是多个md文件
           items: [
-            { text: 'vue', link: '/Code/FrontEnd/vue' }
+            { text: '介绍', link: '/guide/introduction' },
+            { text: 'Markdown 示例', link: '/guide/markdown-examples' }
           ]
         },
         {
-          text: 'BackEnd',
+          text: 'VueLearn',
           collapsed: false,
           items: [
-            { text: 'Springboot', link: '/Code/BackEnd/Springboot' },
-            { text: 'python', link: '/Code/BackEnd/python' }
+            { text: 'VueLearn1', link: '/guide/vuelearn/vue1' },
+            { text: 'VueLearn2', link: '/guide/vuelearn/vue2' },
+            { text: 'Springboot', link: '/guide/vuelearn/Springboot' },
+            { text: 'ps5', link: '/guide/vuelearn/ps5_game_recommendations' },
+            { text: 'ob测试', link: '/guide/vuelearn/ob测试' }
           ]
         }
       ],
-      //Job
-      '/Job/': [
-        { 
-          text: '银行',
-          collapsed: false, 
-          items: [
-            { text: '工商银行', link: '/Job/工商银行' }
-          ]
-        }
-      ],
-      '/Fun/': [
+      '/reference/': [
         {
-          text: 'ps5',
+          text: '参考',
           collapsed: false,
           items: [
-            { text: 'ps5游戏推荐', link: '/Fun/ps5_game_recommendations' }
+            { text: '站点配置', link: '/reference/site-config' },
+            { text: 'API 示例', link: '/reference/api-examples' }
           ]
         }
       ]

@@ -4,5 +4,6 @@
   "theme": "system",
   "interfaceFontFamily": "",
   "textFontFamily": "Apple Braille",
-  "nativeMenus": false
+  "nativeMenus": true,
+  "translucency": false
 }
