@@ -428,7 +428,9 @@ public class ThreadLocalUtil {
 
 每个请求都会经过拦截器校验`jwt`，并将用户信息存入`treadloacl`。
 
-![](images/Pasted%20image%2020250617235013.png)
+![British Fish and Chips](https://pub-d2e4cfca78f042f29331f4f9fcf74111.r2.dev/20250312213657698.png)
+
+
 
 
 
