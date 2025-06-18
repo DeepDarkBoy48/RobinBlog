@@ -10,7 +10,7 @@ export default defineConfig({
     //顶部导航栏
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Code', link: '/Code/FrontEnd/vue' },
+      { text: 'Code', link: '/Code/FrontEnd/NVM' },
       { text: 'Job', link: '/Job/工商银行' },
       { text: 'Fun', link: '/Fun/ps5_game_recommendations' }, 
     ],
@@ -24,6 +24,8 @@ export default defineConfig({
           collapsed: false,
           //每个分栏中可以有多个页面，也就是多个md文件
           items: [
+            { text: 'NVM', link: '/Code/FrontEnd/NVM' },
+            { text: 'React', link: '/Code/FrontEnd/React' },
             { text: 'vue', link: '/Code/FrontEnd/vue' }
           ]
         },
@@ -31,8 +33,10 @@ export default defineConfig({
           text: 'BackEnd',
           collapsed: false,
           items: [
-            { text: 'Springboot', link: '/Code/BackEnd/Springboot' },
-            { text: 'python', link: '/Code/BackEnd/python' }
+            { text: 'Jenv', link: '/Code/BackEnd/Jenv' },
+            { text: 'python', link: '/Code/BackEnd/python' },
+            { text: 'Redis', link: '/Code/BackEnd/Redis' },
+            { text: 'Springboot', link: '/Code/BackEnd/Springboot' }
           ]
         }
       ],

@@ -1,0 +1,7 @@
+.VPDoc.has-sidebar .container {
+    max-width: 100% !important;
+}
+
+.VPDoc.has-sidebar .content-container {
+    max-width: 1500px !important;
+} 

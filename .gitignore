@@ -10,9 +10,10 @@
 .vscode/
 .idea/
 .cursor/
+.obsidian/
 
 # Log files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log* .obsidian/
+pnpm-debug.log* 
