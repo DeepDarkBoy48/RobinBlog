@@ -88,6 +88,14 @@ const App: React.FC = () => {
     return 'max-w-5xl'; // Standard readable width for Analyzer and Dictionary
   };
 
+  // Dynamic container padding based on active tab
+  const getContainerPadding = () => {
+    if (activeTab === 'youtube') {
+      return 'px-4 py-2'; // Minimal padding for video page to maximize space
+    }
+    return 'px-4 py-8';
+  };
+
   return (
     <div className="h-full flex flex-col bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-200 font-sans transition-colors overflow-hidden">
       <Header
@@ -95,7 +103,7 @@ const App: React.FC = () => {
         onNavigate={setActiveTab}
       />
 
-      <main className={`flex-grow container mx-auto px-4 py-8 overflow-y-auto ${getContainerMaxWidth()} flex flex-col gap-8 relative transition-all duration-300 ease-in-out`}>
+      <main className={`flex-grow container mx-auto overflow-y-auto ${getContainerMaxWidth()} ${getContainerPadding()} flex flex-col ${activeTab === 'youtube' ? 'gap-2' : 'gap-8'} relative transition-all duration-300 ease-in-out`}>
 
         {activeTab === 'analyzer' && (
           <>
